@@ -8,13 +8,10 @@ authors:
 - Baochang Zhang
 - Wenrui Ding
 date: '2021-01-01'
-publishDate: '2025-03-14T10:03:28.637633Z'
+publishDate: '2025-03-14T12:35:53.627686Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
-tags:
-- /unread
-- ZIPLAB
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/16306

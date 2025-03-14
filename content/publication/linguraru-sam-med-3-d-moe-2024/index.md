@@ -11,14 +11,12 @@ authors:
 - Junjun He
 - Bohan Zhuang
 date: '2024-01-01'
-publishDate: '2025-03-14T10:03:28.647097Z'
+publishDate: '2025-03-14T12:35:53.638097Z'
 publication_types:
 - chapter
 publication: '*Medical Image Computing and Computer Assisted Intervention – MICCAI
   2024*'
 doi: 10.1007/978-3-031-72114-4_53
-tags:
-- ZIPLAB
 links:
 - name: URL
   url: https://link.springer.com/10.1007/978-3-031-72114-4_53

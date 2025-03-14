@@ -1,19 +1,15 @@
-
-@misc{he_ptqd_2023,
-	title = {{PTQD}: {Accurate} {Post}-{Training} {Quantization} for {Diffusion} {Models}},
-	shorttitle = {{PTQD}},
-	url = {http://arxiv.org/abs/2305.10657},
-	doi = {10.48550/arXiv.2305.10657},
-	abstract = {Diffusion models have recently dominated image synthesis tasks. However, the iterative denoising process is expensive in computations at inference time, making diffusion models less practical for low-latency and scalable real-world applications. Post-training quantization (PTQ) of diffusion models can significantly reduce the model size and accelerate the sampling process without re-training. Nonetheless, applying existing PTQ methods directly to low-bit diffusion models can significantly impair the quality of generated samples. Specifically, for each denoising step, quantization noise leads to deviations in the estimated mean and mismatches with the predetermined variance schedule. As the sampling process proceeds, the quantization noise may accumulate, resulting in a low signal-to-noise ratio (SNR) during the later denoising steps. To address these challenges, we propose a unified formulation for the quantization noise and diffusion perturbed noise in the quantized denoising process. Specifically, we first disentangle the quantization noise into its correlated and residual uncorrelated parts regarding its full-precision counterpart. The correlated part can be easily corrected by estimating the correlation coefficient. For the uncorrelated part, we subtract the bias from the quantized results to correct the mean deviation and calibrate the denoising variance schedule to absorb the excess variance resulting from quantization. Moreover, we introduce a mixed-precision scheme for selecting the optimal bitwidth for each denoising step. Extensive experiments demonstrate that our method outperforms previous post-training quantized diffusion models, with only a 0.06 increase in FID score compared to full-precision LDM-4 on ImageNet 256x256, while saving 19.9x bit operations. Code is available at https://github.com/ziplab/PTQD.},
-	urldate = {2025-03-14},
-	publisher = {arXiv},
-	author = {He, Yefei and Liu, Luping and Liu, Jing and Wu, Weijia and Zhou, Hong and Zhuang, Bohan},
-	month = nov,
-	year = {2023},
-	note = {arXiv:2305.10657 [cs]},
-	keywords = {/unread, Computer Science - Computer Vision and Pattern Recognition, ZIPLAB},
-	file = {Preprint PDF:/Users/eric025/Zotero/storage/ZV5AFM7G/He 等 - 2023 - PTQD Accurate Post-Training Quantization for Diffusion Models.pdf:application/pdf;Snapshot:/Users/eric025/Zotero/storage/VLCTLI7E/2305.html:text/html},
+@inproceedings{NEURIPS2023_2aab8a76,
+ author = {He, Yefei and Liu, Luping and Liu, Jing and Wu, Weijia and Zhou, Hong and Zhuang, Bohan},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {13237--13249},
+ publisher = {Curran Associates, Inc.},
+ title = {PTQD: Accurate Post-Training Quantization for Diffusion Models},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/2aab8a76c7e761b66eccaca0927787de-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
 }
+
 
 @inproceedings{10.24963/ijcai.2023/764,
 author = {Zhuang, Bohan and Liu, Jing and Pan, Zizheng and He, Haoyu and Weng, Yuetian and Shen, Chunhua},
@@ -118,36 +114,19 @@ series = {IJCAI '23}
 	file = {Preprint PDF:/Users/eric025/Zotero/storage/YFNL7BM9/He 等 - 2024 - ZipVL Efficient Large Vision-Language Models with Dynamic Token Sparsification.pdf:application/pdf;Snapshot:/Users/eric025/Zotero/storage/F8Z56HZR/2410.html:text/html},
 }
 
-@misc{yang_object-aware_2024,
-	title = {Object-aware {Inversion} and {Reassembly} for {Image} {Editing}},
-	url = {http://arxiv.org/abs/2310.12149},
-	doi = {10.48550/arXiv.2310.12149},
-	abstract = {By comparing the original and target prompts, we can obtain numerous editing pairs, each comprising an object and its corresponding editing target. To allow editability while maintaining fidelity to the input image, existing editing methods typically involve a fixed number of inversion steps that project the whole input image to its noisier latent representation, followed by a denoising process guided by the target prompt. However, we find that the optimal number of inversion steps for achieving ideal editing results varies significantly among different editing pairs, owing to varying editing difficulties. Therefore, the current literature, which relies on a fixed number of inversion steps, produces sub-optimal generation quality, especially when handling multiple editing pairs in a natural image. To this end, we propose a new image editing paradigm, dubbed Object-aware Inversion and Reassembly (OIR), to enable object-level fine-grained editing. Specifically, we design a new search metric, which determines the optimal inversion steps for each editing pair, by jointly considering the editability of the target and the fidelity of the non-editing region. We use our search metric to find the optimal inversion step for each editing pair when editing an image. We then edit these editing pairs separately to avoid concept mismatch. Subsequently, we propose an additional reassembly step to seamlessly integrate the respective editing results and the non-editing region to obtain the final edited image. To systematically evaluate the effectiveness of our method, we collect two datasets called OIRBench for benchmarking single- and multi-object editing, respectively. Experiments demonstrate that our method achieves superior performance in editing object shapes, colors, materials, categories, etc., especially in multi-object editing scenarios.},
-	language = {en-US},
-	urldate = {2025-03-14},
-	publisher = {arXiv},
-	author = {Yang, Zhen and Ding, Ganggui and Wang, Wen and Chen, Hao and Zhuang, Bohan and Shen, Chunhua},
-	month = mar,
-	year = {2024},
-	note = {arXiv:2310.12149 [cs]},
-	keywords = {Computer Science - Computer Vision and Pattern Recognition, ZIPLAB},
-	file = {Preprint PDF:/Users/eric025/Zotero/storage/2WSKZE52/Yang 等 - 2024 - Object-aware Inversion and Reassembly for Image Editing.pdf:application/pdf;Snapshot:/Users/eric025/Zotero/storage/BNVPTYCH/2310.html:text/html},
+@inproceedings{yang2024objectaware,
+title     = {Object-Aware Inversion and Reassembly for Image Editing},
+author    = {Zhen Yang and Ganggui Ding and Wen Wang and Hao Chen and Bohan Zhuang and Chunhua Shen},
+booktitle = {The Twelfth International Conference on Learning Representations},
+year      = {2024},
+url       = {https://openreview.net/forum?id=dpcVXiMlcv}
 }
 
-@misc{chen_mvsplat360_2024,
-	title = {{MVSplat360}: {Feed}-{Forward} 360 {Scene} {Synthesis} from {Sparse} {Views}},
-	shorttitle = {{MVSplat360}},
-	url = {http://arxiv.org/abs/2411.04924},
-	doi = {10.48550/arXiv.2411.04924},
-	abstract = {We introduce MVSplat360, a feed-forward approach for 360\{{\textbackslash}deg\} novel view synthesis (NVS) of diverse real-world scenes, using only sparse observations. This setting is inherently ill-posed due to minimal overlap among input views and insufficient visual information provided, making it challenging for conventional methods to achieve high-quality results. Our MVSplat360 addresses this by effectively combining geometry-aware 3D reconstruction with temporally consistent video generation. Specifically, it refactors a feed-forward 3D Gaussian Splatting (3DGS) model to render features directly into the latent space of a pre-trained Stable Video Diffusion (SVD) model, where these features then act as pose and visual cues to guide the denoising process and produce photorealistic 3D-consistent views. Our model is end-to-end trainable and supports rendering arbitrary views with as few as 5 sparse input views. To evaluate MVSplat360's performance, we introduce a new benchmark using the challenging DL3DV-10K dataset, where MVSplat360 achieves superior visual quality compared to state-of-the-art methods on wide-sweeping or even 360\{{\textbackslash}deg\} NVS tasks. Experiments on the existing benchmark RealEstate10K also confirm the effectiveness of our model. The video results are available on our project page: https://donydchen.github.io/mvsplat360.},
-	urldate = {2025-03-14},
-	publisher = {arXiv},
-	author = {Chen, Yuedong and Zheng, Chuanxia and Xu, Haofei and Zhuang, Bohan and Vedaldi, Andrea and Cham, Tat-Jen and Cai, Jianfei},
-	month = nov,
-	year = {2024},
-	note = {arXiv:2411.04924 [cs]},
-	keywords = {/unread, Computer Science - Computer Vision and Pattern Recognition, ZIPLAB},
-	file = {Preprint PDF:/Users/eric025/Zotero/storage/VWLLIFCW/Chen 等 - 2024 - MVSplat360 Feed-Forward 360 Scene Synthesis from Sparse Views.pdf:application/pdf;Snapshot:/Users/eric025/Zotero/storage/MZS23MME/2411.html:text/html},
+@article{chen2024mvsplat360,
+    title     = {MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views},
+    author    = {Chen, Yuedong and Zheng, Chuanxia and Xu, Haofei and Zhuang, Bohan and Vedaldi, Andrea and Cham, Tat-Jen and Cai, Jianfei},
+    booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+    year      = {2024},
 }
 
 @misc{liu_focusformer_2022,
@@ -317,9 +296,7 @@ series = {IJCAI '23}
 	author = {He, Haoyu and Cai, Jianfei and Liu, Jing and Pan, Zizheng and Zhang, Jing and Tao, Dacheng and Zhuang, Bohan},
 	year = {2024},
 	note = {Publisher: IEEE},
-	keywords = {/unread, ZIPLAB},
 	pages = {3910--3922},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/Y2M78MME/He 等 - 2024 - Pruning self-attentions into convolutional layers in single path.pdf:application/pdf},
 }
 
 @article{liu_ecoformer_2022,
@@ -331,9 +308,7 @@ series = {IJCAI '23}
 	journal = {Advances in Neural Information Processing Systems},
 	author = {Liu, Jing and Pan, Zizheng and He, Haoyu and Cai, Jianfei and Zhuang, Bohan},
 	year = {2022},
-	keywords = {/unread, ZIPLAB},
 	pages = {10295--10308},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/XYJJRXJL/Liu 等 - 2022 - Ecoformer Energy-saving attention with linear complexity.pdf:application/pdf},
 }
 
 @article{liu_minicache_2024,
@@ -345,9 +320,7 @@ series = {IJCAI '23}
 	journal = {Advances in Neural Information Processing Systems},
 	author = {Liu, Akide and Liu, Jing and Pan, Zizheng and He, Yefei and Haffari, Reza and Zhuang, Bohan},
 	year = {2024},
-	keywords = {/unread, ZIPLAB},
 	pages = {139997--140031},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/V4ZWTC6B/Liu 等 - 2024 - Minicache Kv cache compression in depth dimension for large language models.pdf:application/pdf},
 }
 
 @article{deng_efficient_2023,
@@ -358,9 +331,7 @@ series = {IJCAI '23}
 	journal = {Advances in Neural Information Processing Systems},
 	author = {Deng, Zeshuai and Chen, Zhuokun and Niu, Shuaicheng and Li, Thomas and Zhuang, Bohan and Tan, Mingkui},
 	year = {2023},
-	keywords = {/unread, ZIPLAB},
 	pages = {74671--74701},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/GWP7YILF/Deng 等 - 2023 - Efficient test-time adaptation for super-resolution with second-order degradation and reconstruction.pdf:application/pdf},
 }
 
 @article{weng_mask_2023,
@@ -372,9 +343,7 @@ series = {IJCAI '23}
 	journal = {Advances in Neural Information Processing Systems},
 	author = {Weng, Yuetian and Han, Mingfei and He, Haoyu and Li, Mingjie and Yao, Lina and Chang, Xiaojun and Zhuang, Bohan},
 	year = {2023},
-	keywords = {ZIPLAB},
 	pages = {7170--7183},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/QCXSFFDN/Weng 等 - 2023 - Mask propagation for efficient video semantic segmentation.pdf:application/pdf},
 }
 
 @article{liu_single-path_2023,
@@ -402,9 +371,7 @@ series = {IJCAI '23}
 	author = {He, Haoyu and Zhang, Jing and Zhuang, Bohan and Cai, Jianfei and Tao, Dacheng},
 	year = {2023},
 	note = {Publisher: IEEE},
-	keywords = {/unread, ZIPLAB},
 	pages = {14481--14496},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/7ADB3RQR/He 等 - 2023 - End-to-end one-shot human parsing.pdf:application/pdf},
 }
 
 @article{chen_gmai-mmbench_2024,
@@ -431,9 +398,7 @@ series = {IJCAI '23}
 	booktitle = {Proceedings of the {IEEE}/cvf international conference on computer vision},
 	author = {Pan, Zizheng and Zhuang, Bohan and Liu, Jing and He, Haoyu and Cai, Jianfei},
 	year = {2021},
-	keywords = {ZIPLAB},
 	pages = {377--386},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/VXH9TACE/Pan 等 - 2021 - Scalable vision transformers with hierarchical pooling.pdf:application/pdf},
 }
 
 @incollection{leonardis_mvsplat_2025,
@@ -468,9 +433,7 @@ series = {IJCAI '23}
 	author = {Pan, Zizheng and Zhuang, Bohan and He, Haoyu and Liu, Jing and Cai, Jianfei},
 	year = {2022},
 	note = {Issue: 2},
-	keywords = {ZIPLAB},
 	pages = {2035--2043},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/PJ525ELR/Pan 等 - 2022 - Less is more Pay less attention in vision transformers.pdf:application/pdf},
 }
 
 @inproceedings{zhang_motion_2024,
@@ -480,7 +443,6 @@ series = {IJCAI '23}
 	publisher = {Springer},
 	author = {Zhang, Zeyu and Liu, Akide and Reid, Ian and Hartley, Richard and Zhuang, Bohan and Tang, Hao},
 	year = {2024},
-	keywords = {/unread, ZIPLAB},
 	pages = {265--282},
 }
 
@@ -491,9 +453,7 @@ series = {IJCAI '23}
 	booktitle = {Proceedings of the {IEEE}/{CVF} {International} {Conference} on {Computer} {Vision}},
 	author = {He, Haoyu and Cai, Jianfei and Zhang, Jing and Tao, Dacheng and Zhuang, Bohan},
 	year = {2023},
-	keywords = {/unread, ZIPLAB},
 	pages = {11825--11835},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/GLTDCVPF/He 等 - 2023 - Sensitivity-aware visual parameter-efficient fine-tuning.pdf:application/pdf},
 }
 
 @inproceedings{li_automated_2022,
@@ -516,9 +476,7 @@ series = {IJCAI '23}
 	booktitle = {Proceedings of the {IEEE}/{CVF} {International} {Conference} on {Computer} {Vision}},
 	author = {He, Yefei and Lou, Zhenyu and Zhang, Luoming and Liu, Jing and Wu, Weijia and Zhou, Hong and Zhuang, Bohan},
 	year = {2023},
-	keywords = {/unread, ZIPLAB},
 	pages = {5651--5663},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/HNRCVW9B/He 等 - 2023 - Bivit Extremely compressed binary vision transformers.pdf:application/pdf},
 }
 
 @inproceedings{chen_aqd_2021,
@@ -529,9 +487,7 @@ series = {IJCAI '23}
 	booktitle = {Proceedings of the {IEEE}/{CVF} conference on computer vision and pattern recognition},
 	author = {Chen, Peng and Liu, Jing and Zhuang, Bohan and Tan, Mingkui and Shen, Chunhua},
 	year = {2021},
-	keywords = {/unread, ZIPLAB},
 	pages = {104--113},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/7LUD42VI/Chen 等 - 2021 - Aqd Towards accurate quantized object detection.pdf:application/pdf},
 }
 
 @incollection{avidan_efficient_2022,
@@ -549,9 +505,7 @@ series = {IJCAI '23}
 	year = {2022},
 	doi = {10.1007/978-3-031-19830-4_21},
 	note = {Series Title: Lecture Notes in Computer Science},
-	keywords = {ZIPLAB},
 	pages = {358--375},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/AKYFRX6Z/Weng 等 - 2022 - An Efficient Spatio-Temporal Pyramid Transformer for Action Detection.pdf:application/pdf},
 }
 
 @incollection{leonardis_longvlm_2025,
@@ -597,9 +551,7 @@ series = {IJCAI '23}
 	author = {Liu, Chunlei and Chen, Peng and Zhuang, Bohan and Shen, Chunhua and Zhang, Baochang and Ding, Wenrui},
 	year = {2021},
 	note = {Issue: 3},
-	keywords = {/unread, ZIPLAB},
 	pages = {2091--2099},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/N3NLD9KH/Liu 等 - 2021 - SA-BNN State-aware binary neural network.pdf:application/pdf},
 }
 
 @inproceedings{wang_modaverse_2024,
@@ -611,9 +563,7 @@ series = {IJCAI '23}
 	booktitle = {Proceedings of the {IEEE}/{CVF} {Conference} on {Computer} {Vision} and {Pattern} {Recognition}},
 	author = {Wang, Xinyu and Zhuang, Bohan and Wu, Qi},
 	year = {2024},
-	keywords = {ZIPLAB},
 	pages = {26606--26616},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/6ZTIUWAW/Wang 等 - 2024 - Modaverse Efficiently transforming modalities with llms.pdf:application/pdf},
 }
 
 @inproceedings{he_dynamic_2023,
@@ -636,9 +586,7 @@ series = {IJCAI '23}
 	booktitle = {Proceedings of the {IEEE}/{CVF} {International} {Conference} on {Computer} {Vision}},
 	author = {Chen, Peng and Zhuang, Bohan and Shen, Chunhua},
 	year = {2021},
-	keywords = {/unread, ZIPLAB},
 	pages = {5219--5228},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/UHF5X4ER/Chen 等 - 2021 - FATNN Fast and accurate ternary neural networks.pdf:application/pdf},
 }
 
 @incollection{linguraru_sam-med3d-moe_2024,
@@ -657,9 +605,7 @@ series = {IJCAI '23}
 	year = {2024},
 	doi = {10.1007/978-3-031-72114-4_53},
 	note = {Series Title: Lecture Notes in Computer Science},
-	keywords = {ZIPLAB},
 	pages = {552--561},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/U8DW3VCK/Wang 等 - 2024 - SAM-Med3D-MoE Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical.pdf:application/pdf},
 }
 
 @inproceedings{he_efficient_2024,
@@ -669,9 +615,7 @@ series = {IJCAI '23}
 	booktitle = {Proceedings of the {IEEE}/{CVF} {Conference} on {Computer} {Vision} and {Pattern} {Recognition}},
 	author = {He, Haoyu and Pan, Zizheng and Liu, Jing and Cai, Jianfei and Zhuang, Bohan},
 	year = {2024},
-	keywords = {/unread, ZIPLAB},
 	pages = {28555--28565},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/CABSHEJI/He 等 - 2024 - Efficient stitchable task adaptation.pdf:application/pdf},
 }
 
 @incollection{leonardis_stitched_2025,
@@ -689,9 +633,7 @@ series = {IJCAI '23}
 	year = {2025},
 	doi = {10.1007/978-3-031-72940-9_15},
 	note = {Series Title: Lecture Notes in Computer Science},
-	keywords = {/unread, ZIPLAB},
 	pages = {258--274},
-	file = {Available Version (via Google Scholar):/Users/eric025/Zotero/storage/N2KXCWNC/Pan 等 - 2025 - Stitched ViTs are Flexible Vision Backbones.pdf:application/pdf},
 }
 @article{zhuang2021effective,
   title={Effective training of convolutional neural networks with low-bitwidth weights and activations},

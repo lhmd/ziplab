@@ -7,13 +7,10 @@ authors:
 - Jianfei Cai
 - Dacheng Tao
 date: '2023-01-01'
-publishDate: '2025-03-14T10:03:28.605426Z'
+publishDate: '2025-03-14T12:35:53.593898Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence*'
-tags:
-- /unread
-- ZIPLAB
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10207820/

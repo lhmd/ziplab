@@ -9,13 +9,10 @@ authors:
 - Dacheng Tao
 - Bohan Zhuang
 date: '2024-01-01'
-publishDate: '2025-03-14T10:03:28.590789Z'
+publishDate: '2025-03-14T12:35:53.577636Z'
 publication_types:
 - article-journal
 publication: '*IEEE transactions on pattern analysis and machine intelligence*'
-tags:
-- /unread
-- ZIPLAB
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10409620/

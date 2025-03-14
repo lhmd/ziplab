@@ -8,11 +8,8 @@ authors:
 - Bohan Zhuang
 - Hao Tang
 date: '2024-01-01'
-publishDate: '2025-03-14T10:03:28.618267Z'
+publishDate: '2025-03-14T12:35:53.607818Z'
 publication_types:
 - paper-conference
 publication: '*European Conference on Computer Vision*'
-tags:
-- /unread
-- ZIPLAB
 ---
