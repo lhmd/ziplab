@@ -45,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'zjuwjwang@gmail.com'
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     link: https://x.com/wjwang2003
   - icon: google-scholar
@@ -54,6 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lhmd
+  - icon: house
+    icon_pack: fab
+    link: https://lhmd.top
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
