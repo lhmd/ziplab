@@ -15,7 +15,7 @@ sections:
           - CO-PI
           - PhD Student
           - Master Student
-          - Research Fellows & Collaborators
+          - Collaborator
           - Undergraduate Student
       sort_by: Params.last_name
       sort_ascending: true
