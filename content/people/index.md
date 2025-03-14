@@ -13,11 +13,10 @@ sections:
       user_groups:
           - PI
           - CO-PI
-          - Master Student
           - PhD Student
-          - Postdoc
-          - Undergraduate Student
+          - Master Student
           - Research Fellows & Collaborators
+          - Undergraduate Student
       sort_by: Params.last_name
       sort_ascending: true
     design:
