@@ -10,7 +10,8 @@ sections:
       title: Contact
       text: |-
         The principles of lab:
-        Personal Endeavor: Undertaking a PhD is a deeply personal journey.
+
+        1. Personal Endeavor: Undertaking a PhD is a deeply personal journey.
         Research Freedom: We uphold research freedom as a fundamental principle, with no fixed working or resting hours.
         Weekly Meetings: Attendance at weekly one-on-one meetings with me is mandatory. Reports can be formatted freely but must adhere to standard content guidelines.
         Active Engagement: Actively participate in group or subgroup discussions, and familiarize yourself with shared papers and projects.
