@@ -27,11 +27,11 @@ bio:
 interests:
   - Artificial Intelligence
 
-# education:
-#   courses:
-#     - course: BSc in Software Engineering
-#       institution: Zhejiang University
-#       year: 2025
+education:
+  courses:
+    - course: BSc in Software Engineering
+      institution: Zhejiang University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
