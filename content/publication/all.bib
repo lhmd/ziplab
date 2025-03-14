@@ -39,36 +39,18 @@ series = {IJCAI '23}
   year = {2024},
 }
 
-@misc{he_efficientdm_2024,
-	title = {{EfficientDM}: {Efficient} {Quantization}-{Aware} {Fine}-{Tuning} of {Low}-{Bit} {Diffusion} {Models}},
-	shorttitle = {{EfficientDM}},
-	url = {http://arxiv.org/abs/2310.03270},
-	doi = {10.48550/arXiv.2310.03270},
-	abstract = {Diffusion models have demonstrated remarkable capabilities in image synthesis and related generative tasks. Nevertheless, their practicality for real-world applications is constrained by substantial computational costs and latency issues. Quantization is a dominant way to compress and accelerate diffusion models, where post-training quantization (PTQ) and quantization-aware training (QAT) are two main approaches, each bearing its own properties. While PTQ exhibits efficiency in terms of both time and data usage, it may lead to diminished performance in low bit-width. On the other hand, QAT can alleviate performance degradation but comes with substantial demands on computational and data resources. In this paper, we introduce a data-free and parameter-efficient fine-tuning framework for low-bit diffusion models, dubbed EfficientDM, to achieve QAT-level performance with PTQ-like efficiency. Specifically, we propose a quantization-aware variant of the low-rank adapter (QALoRA) that can be merged with model weights and jointly quantized to low bit-width. The fine-tuning process distills the denoising capabilities of the full-precision model into its quantized counterpart, eliminating the requirement for training data. We also introduce scale-aware optimization and temporal learned step-size quantization to further enhance performance. Extensive experimental results demonstrate that our method significantly outperforms previous PTQ-based diffusion models while maintaining similar time and data efficiency. Specifically, there is only a 0.05 sFID increase when quantizing both weights and activations of LDM-4 to 4-bit on ImageNet 256x256. Compared to QAT-based methods, our EfficientDM also boasts a 16.2x faster quantization speed with comparable generation quality. Code is available at {\textbackslash}href\{https://github.com/ThisisBillhe/EfficientDM\}\{this hrl\}.},
-	urldate = {2025-03-14},
-	publisher = {arXiv},
-	author = {He, Yefei and Liu, Jing and Wu, Weijia and Zhou, Hong and Zhuang, Bohan},
-	month = apr,
-	year = {2024},
-	note = {arXiv:2310.03270 [cs]},
-	keywords = {/unread, Computer Science - Computer Vision and Pattern Recognition, ZIPLAB},
-	file = {Preprint PDF:/Users/eric025/Zotero/storage/6MQWTTF8/He 等 - 2024 - EfficientDM Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models.pdf:application/pdf;Snapshot:/Users/eric025/Zotero/storage/EZFSPWVL/2310.html:text/html},
+@inproceedings{he2024efficientdm,
+  title={EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models},
+  author={He, Yefei and Liu, Jing and Wu, Weijia and Zhou, Hong and Zhuang, Bohan},
+  booktitle={International Conference on Learning Representations},
+  year={2024}
 }
 
-@misc{he_zipcache_2024,
-	title = {{ZipCache}: {Accurate} and {Efficient} {KV} {Cache} {Quantization} with {Salient} {Token} {Identification}},
-	shorttitle = {{ZipCache}},
-	url = {http://arxiv.org/abs/2405.14256},
-	doi = {10.48550/arXiv.2405.14256},
-	abstract = {KV cache stores key and value states from previous tokens to avoid re-computation, yet it demands substantial storage space, especially for long sequences. Adaptive KV cache compression seeks to discern the saliency of tokens, preserving vital information while aggressively compressing those of less importance. However, previous methods of this approach exhibit significant performance degradation at high compression ratios due to inaccuracies in identifying salient tokens. In this paper, we present ZipCache, an accurate and efficient KV cache quantization method for LLMs. First, we construct a strong baseline for quantizing KV cache. Through the proposed channel-separable tokenwise quantization scheme, the memory overhead of quantization parameters are substantially reduced compared to fine-grained groupwise quantization. To enhance the compression ratio, we propose normalized attention score as an effective metric for identifying salient tokens by considering the lower triangle characteristics of the attention matrix. Moreover, we develop an efficient approximation method that decouples the saliency metric from full attention scores, enabling compatibility with fast attention implementations like FlashAttention. Extensive experiments demonstrate that ZipCache achieves superior compression ratios, fast generation speed and minimal performance losses compared with previous KV cache compression methods. For instance, when evaluating Mistral-7B model on GSM8k dataset, ZipCache is capable of compressing the KV cache by \$4.98{\textbackslash}times\$, with only a \$0.38{\textbackslash}\%\$ drop in accuracy. In terms of efficiency, ZipCache also showcases a \$37.3{\textbackslash}\%\$ reduction in prefill-phase latency, a \$56.9{\textbackslash}\%\$ reduction in decoding-phase latency, and a \$19.8{\textbackslash}\%\$ reduction in GPU memory usage when evaluating LLaMA3-8B model with a input length of \$4096\$.},
-	urldate = {2025-03-14},
-	publisher = {arXiv},
-	author = {He, Yefei and Zhang, Luoming and Wu, Weijia and Liu, Jing and Zhou, Hong and Zhuang, Bohan},
-	month = may,
-	year = {2024},
-	note = {arXiv:2405.14256 [cs]},
-	keywords = {/unread, Computer Science - Artificial Intelligence, Computer Science - Machine Learning, ZIPLAB},
-	file = {Preprint PDF:/Users/eric025/Zotero/storage/NX8BIA28/He 等 - 2024 - ZipCache Accurate and Efficient KV Cache Quantization with Salient Token Identification.pdf:application/pdf;Snapshot:/Users/eric025/Zotero/storage/8LJVFUL4/2405.html:text/html},
+@article{he2024zipcache,
+  title={ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification},
+  author={He, Yefei and Zhang, Luoming and Wu, Weijia and Liu, Jing and Zhou, Hong and Zhuang, Bohan},
+  journal={arXiv preprint arXiv:2405.14256},
+  year={2024}
 }
 
 @misc{liu_sharpness-aware_2023,
