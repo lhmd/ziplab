@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **ZIP Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **ZIP Lab** is a joint lab located in Hangzhou and Melbourne, the two branches are affiliated with Zhejiang University and Monash University respectively.
   
   - block: collection
     content:
