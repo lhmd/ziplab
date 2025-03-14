@@ -34,6 +34,9 @@ education:
     - course: B.Eng. in Artificial Intelligence
       institution: Harbin Institute of Technology
       year: 2026
+    - course: Exchange Student
+      institution: Seoul National University 
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,3 +69,5 @@ email: ''
 user_groups:
   - Undergraduate Student
 ---
+
+He has recently been focusing on sparse attention and quantization techniques in Diffusion Transformers (DiT) to enable efficient, high-quality generative models.
