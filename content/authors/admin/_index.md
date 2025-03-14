@@ -10,7 +10,9 @@ last_name: Zhuang
 superuser: true
 
 # Role/position
-role: PI
+role: Research Professor
+
+      Zhejiang University & Monash University
 
 # Organizations/Affiliations
 organizations:
