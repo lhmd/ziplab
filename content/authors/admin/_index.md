@@ -10,7 +10,7 @@ last_name: Zhuang
 superuser: true
 
 authors:
-  - admin
+  - bohanzhuang
 
 # Role/position
 role: Research Professor
