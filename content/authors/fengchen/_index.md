@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zizheng Pan
+title: Feng Chen
 
 # Full name (for SEO)
-first_name: Zizheng
-last_name: Pan
+first_name: Feng
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:

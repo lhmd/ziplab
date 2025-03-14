@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Zizheng Pan
+title: Xi Lin
 
 # Full name (for SEO)
-first_name: Zizheng
-last_name: Pan
+first_name: Xi
+last_name: Lin
 
 # Username (this should match the folder name)
 authors:
-  - akideliu
+  - xilin
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: PhD
 
 # Organizations/Affiliations
 organizations:
-  - name: Monash University
+  - name: Zhejiang University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,7 +57,7 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'erix025@outlook.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
