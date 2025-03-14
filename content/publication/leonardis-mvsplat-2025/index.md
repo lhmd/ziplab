@@ -10,7 +10,7 @@ authors:
 - Tat-Jen Cham
 - Jianfei Cai
 date: '2025-01-01'
-publishDate: '2025-03-14T12:35:53.602547Z'
+publishDate: '2025-03-14T12:39:53.350104Z'
 publication_types:
 - chapter
 publication: '*Computer Vision – ECCV 2024*'

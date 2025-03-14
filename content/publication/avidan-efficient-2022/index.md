@@ -7,7 +7,7 @@ authors:
 - Xiaojun Chang
 - Bohan Zhuang
 date: '2022-01-01'
-publishDate: '2025-03-14T12:35:53.620156Z'
+publishDate: '2025-03-14T12:39:53.367379Z'
 publication_types:
 - chapter
 publication: '*Computer Vision – ECCV 2022*'

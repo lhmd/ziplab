@@ -11,7 +11,7 @@ authors:
 - Junjun He
 - Bohan Zhuang
 date: '2024-01-01'
-publishDate: '2025-03-14T12:35:53.638097Z'
+publishDate: '2025-03-14T12:39:53.384196Z'
 publication_types:
 - chapter
 publication: '*Medical Image Computing and Computer Assisted Intervention – MICCAI
