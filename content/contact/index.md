@@ -9,6 +9,10 @@ sections:
     content:
       title: Contact
       text: |-
+        **Thanks for your interest to ZIP Lab**
+
+        *To be eligible for PhD positions @ Monash Uni, applicants must have published at least 1-2 first-author top-tier papers in ML/NLP/CV venues.* 
+        
         The principles of lab:
 
         1. Personal Endeavor: Undertaking a PhD is a deeply personal journey.
