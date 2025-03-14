@@ -17,6 +17,7 @@ sections:
           - PhD Student
           - Postdoc
           - Undergraduate Student
+          - Research Fellows & Collaborators
       sort_by: Params.last_name
       sort_ascending: true
     design:
