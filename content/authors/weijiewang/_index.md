@@ -33,7 +33,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Software Engineering
+    - course: B.Eng. in Software Engineering
       institution: Zhejiang University
       year: 2025
 
