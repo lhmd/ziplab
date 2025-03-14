@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ZIP Lab
       image:
         filename: welcome.jpg
       text: |

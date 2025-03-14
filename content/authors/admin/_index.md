@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PI
 ---
 
 Bohan Zhuang currently hold the position of Research Professor at Zhejiang University. Previously, he was a tenured Assistant Professor at Monash University from 2020 to 2024.

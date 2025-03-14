@@ -9,7 +9,17 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        The principles of lab:
+        Personal Endeavor: Undertaking a PhD is a deeply personal journey.
+        Research Freedom: We uphold research freedom as a fundamental principle, with no fixed working or resting hours.
+        Weekly Meetings: Attendance at weekly one-on-one meetings with me is mandatory. Reports can be formatted freely but must adhere to standard content guidelines.
+        Active Engagement: Actively participate in group or subgroup discussions, and familiarize yourself with shared papers and projects.
+        Timely Draft Submission: Submit the full draft to me at least 7 days prior to the submission deadline.
+        Funding Proposal Writing: PhD, Master, and Bachelor students are NOT expected to draft funding proposals, as the program is purely research-based.
+        Active Conference Participation: Engage in international conferences to build connections, and consider organizing or attending international tutorials and workshops.
+        Thesis Requirements: The final PhD thesis does not need to be publication-based, and there are no specific requirements for the number of papers for graduation. Focus on quality over quantity.
+        Internships and Visits: We encourage pursuing internships in industry (e.g., Nvidia, Microsoft, Meta) or visiting internationally renowned institutions, while adhering to internship policies.
+        Timely Graduation: Students are encouraged to graduate as early as possible.
       email: zip.lab@outlook.com
       # phone: 888 888 88 88
       address:
