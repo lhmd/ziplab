@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zizheng Pan
+title: Yefei He
 
 # Full name (for SEO)
-first_name: Zizheng
-last_name: Pan
+first_name: Yefei
+last_name: He
 
 # Username (this should match the folder name)
 authors:
@@ -14,42 +14,45 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student of
+role: Ph.D. candidate at Zhejiang University
+
+      PhD. '21
 
 # Organizations/Affiliations
 organizations:
-  - name: Monash University
+  - name: Zhejiang University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Focusing on developing efficient AI algorithms for computer vision and natural language processing tasks.
 
 interests:
-  - Artificial Intelligence
+  - Efficient Visual Generation
+  - Model Compression (especially Quantization & Binarization)
 
-# education:
-#   courses:
-#     - course: BSc in Software Engineering
-#       institution: Zhejiang University
-#       year: 2025
+education:
+  courses:
+    - course: PhD Electronic Information Technology
+      institution: Zhejiang University
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'zjuwjwang@gmail.com'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://x.com/wjwang2003
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.com/citations?user=Hsxmwr0AAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/lhmd
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: billhe@zju.edu.cn
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/yefei_he
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ThisisBillhe
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,3 +67,5 @@ email: ''
 user_groups:
   - PhD Student
 ---
+
+Yefei He is a Ph.D. candidate at Zhejiang University, supervised by Prof. Hong Zhou. He is also closely collaborated with Prof. Bohan Zhuang. His research focuses on developing efficient AI algorithms for computer vision and natural language processing tasks, striving to enhance AI’s practicality in real-world scenarios.

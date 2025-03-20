@@ -18,26 +18,26 @@ role: PhD
 
 # Organizations/Affiliations
 organizations:
-  - name: Monash University
+  - name: The University of Adelaide
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Artificial Intelligence
+  - Vision Language Processing
+  - Video Diffusion
 
-# education:
-#   courses:
-#     - course: BSc in Software Engineering
-#       institution: Zhejiang University
-#       year: 2025
+education:
+  courses:
+    - course: PhD student
+      institution: The University of Adelaide
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
 #   - icon: envelope
 #     icon_pack: fas
 #     link: 'zjuwjwang@gmail.com'
@@ -47,9 +47,9 @@ interests:
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: https://scholar.google.com/citations?user=Hsxmwr0AAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/lhmd
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Chenfeng1271
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

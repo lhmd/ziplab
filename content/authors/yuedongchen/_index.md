@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zizheng Pan
+title: Yuedong Chen
 
 # Full name (for SEO)
-first_name: Zizheng
-last_name: Pan
+first_name: Yuedong
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD
+role: Researcher, Seed-Vision-Research, ByteDance
 
 # Organizations/Affiliations
 organizations:
@@ -25,31 +25,36 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
+  - Computer VisionComputer
+  - GraphicsAffective
+  - Computing
 
-# education:
-#   courses:
-#     - course: BSc in Software Engineering
-#       institution: Zhejiang University
-#       year: 2025
+education:
+  courses:
+    - course: PhD student
+      institution: Monash University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
 #   - icon: envelope
 #     icon_pack: fas
 #     link: 'zjuwjwang@gmail.com'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://x.com/wjwang2003
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.com/citations?user=Hsxmwr0AAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ&hl=en
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/lhmd
+  - icon: house
+  - icon_pack: fab
+  - link: https://donydchen.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

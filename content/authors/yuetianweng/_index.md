@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zizheng Pan
+title: Yuetian Weng
 
 # Full name (for SEO)
-first_name: Zizheng
-last_name: Pan
+first_name: Yuetian
+last_name: Weng
 
 # Username (this should match the folder name)
 authors:
@@ -25,13 +25,15 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
+  - Video understanding
+  - Model Efficiency
+  - Object Detection
 
-# education:
-#   courses:
-#     - course: BSc in Software Engineering
-#       institution: Zhejiang University
-#       year: 2025
+education:
+  courses:
+    - course: PhD student
+      institution: Monash University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
