@@ -29,14 +29,14 @@ interests:
   - Efficient AI
   - MutiModality Large Language Models
 
- education:
-   courses:
-     - course: Ph.D in Computer Science
-       institution: Monash University
-       year: 2024-Present
-     - course: BSc in Computer Science (Honours)
-       institution: The University of Adelaide
-       year: 2020-2024
+education:
+  courses:
+    - course: Ph.D in Computer Science
+      institution: Monash University
+      year: 2024-Present
+    - course: BSc in Computer Science (Honours)
+      institution: The University of Adelaide
+      year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
