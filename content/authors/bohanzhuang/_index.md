@@ -7,7 +7,11 @@ first_name: Bohan
 last_name: Zhuang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
+
+# Username (this should match the folder name)
+authors:
+  - bohanzhuang
 
 # Role/position
 role: Research Professor
