@@ -48,7 +48,7 @@ social:
 #     link: https://x.com/wjwang2003
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ&hl=en
+    link: https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/lhmd
