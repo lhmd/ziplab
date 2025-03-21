@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **ZIP Lab** is a joint lab located in Hangzhou and Melbourne, the two branches are affiliated with Zhejiang University and Monash University respectively.
+        The **ZIP Lab** focuses on efficient large models, efficient machine learning systems and their application in various subfields of artificial intelligence.
   
   # - block: collection
   #   content:
