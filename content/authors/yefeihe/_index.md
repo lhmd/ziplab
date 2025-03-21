@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate at Zhejiang University
+role: Zhejiang University
 
       PhD. '21
 

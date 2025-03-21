@@ -14,7 +14,9 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD
+role: The University of Adelaide
+
+      PhD. '24
 
 # Organizations/Affiliations
 organizations:
