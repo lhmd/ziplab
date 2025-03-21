@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: test
-      year: 2012
-    - course: BSc in Artificial Intelligence
-      institution: test
-      year: 2008
+    - course: Ph.D in Computer Science
+      institution: University of Adelaide
+      year: 2018
+    - course: B.E. in Electronic and Information Engineering
+      institution: Dalian University of Technology
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'bohan.zhuang@zju.edu.cn'
+    link: 'bohan.zhuang@gmail.com'
   - icon: x
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/supremeZhuang
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bohanzhuang
   - icon: house
     icon_pack: fab
     link: https://bohanzhuang.github.io
