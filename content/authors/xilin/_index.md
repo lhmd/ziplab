@@ -16,7 +16,7 @@ superuser: false
 # Role/position
 role: College of Computer Science and Technology, Zhejiang University
 
-      B.Eng. '22
+      Undergrad '22
 
 # Organizations/Affiliations
 organizations:
