@@ -6,8 +6,6 @@ title: Shaoxuan He
 first_name: Shaoxuan
 last_name: He
 
-year: 2025
-
 # Username (this should match the folder name)
 authors:
   - shaoxuanhe

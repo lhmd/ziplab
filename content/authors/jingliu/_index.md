@@ -6,8 +6,6 @@ title: Jing Liu
 first_name: Jing
 last_name: Liu
 
-year: 2024
-
 # Username (this should match the folder name)
 authors:
   - jingliu

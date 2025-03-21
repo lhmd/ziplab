@@ -6,8 +6,6 @@ title: Weijie Wang
 first_name: Weijie
 last_name: Wang
 
-year: 2025
-
 # Username (this should match the folder name)
 authors:
   - weijiewang

@@ -6,8 +6,6 @@ title: Yuanyu He
 first_name: Yuanyu
 last_name: He
 
-year: 2025
-
 # Username (this should match the folder name)
 authors:
   - yuanyuhe

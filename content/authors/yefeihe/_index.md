@@ -5,9 +5,6 @@ title: Yefei He
 # Full name (for SEO)
 first_name: Yefei
 last_name: He
-
-year: 2021
-
 # Username (this should match the folder name)
 authors:
   - yefeihe

@@ -6,8 +6,6 @@ title: Feng Chen
 first_name: Feng
 last_name: Chen
 
-year: 2023
-
 # Username (this should match the folder name)
 authors:
   - fengchen

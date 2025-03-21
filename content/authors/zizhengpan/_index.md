@@ -6,7 +6,6 @@ title: Zizheng Pan
 first_name: Zizheng
 last_name: Pan
 
-year: 2021
 
 # Username (this should match the folder name)
 authors:

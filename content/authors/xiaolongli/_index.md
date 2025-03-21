@@ -6,8 +6,6 @@ title: Xiaolong Li
 first_name: Xiaolong
 last_name: Li
 
-year: 2026
-
 # Username (this should match the folder name)
 authors:
   - xiaolongli
