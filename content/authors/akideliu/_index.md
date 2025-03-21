@@ -14,9 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Monash University
-
-      PhD. '24
+role: Monash University <br> PhD. '24
 
 # Organizations/Affiliations
 organizations:
