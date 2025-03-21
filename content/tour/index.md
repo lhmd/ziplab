@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: World-Class AI Lab
-        content: 'Open position for PhD/Postdoc/Master...'
+        content: 'Open position for PhD/Master/Visiting Student...'
         align: right
         background:
           image:

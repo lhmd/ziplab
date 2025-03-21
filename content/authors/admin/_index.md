@@ -20,7 +20,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: test
+bio: PI @ ZIP Lab
 
 interests:
   - Artificial Intelligence
