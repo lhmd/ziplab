@@ -6,6 +6,8 @@ title: Jiahao He
 first_name: Jiahao
 last_name: He
 
+year: 2024
+
 # Username (this should match the folder name)
 authors:
   - jiaohaohe

@@ -6,6 +6,8 @@ title: Yuetian Weng
 first_name: Yuetian
 last_name: Weng
 
+year: 2021
+
 # Username (this should match the folder name)
 authors:
   - yuetianweng

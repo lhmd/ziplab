@@ -6,6 +6,8 @@ title: Yuedong Chen
 first_name: Yuedong
 last_name: Chen
 
+year: 2021
+
 # Username (this should match the folder name)
 authors:
   - yuedongchen

@@ -6,6 +6,8 @@ title: Jin Ye
 first_name: Jin 
 last_name: Ye
 
+year: 2024
+
 # Username (this should match the folder name)
 authors:
   - jinye

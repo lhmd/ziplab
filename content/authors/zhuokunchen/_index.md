@@ -6,6 +6,8 @@ title: Zhuokun Chen
 first_name: Zhuokun
 last_name: Chen
 
+year: 2025
+
 # Username (this should match the folder name)
 authors:
   - zhuokunchen
