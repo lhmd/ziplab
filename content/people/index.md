@@ -17,7 +17,7 @@ sections:
           - Master Student
           - Collaborator
           - Visiting Student
-      sort_by: Params.last_name
+      sort_by: Params.year
       sort_ascending: true
     design:
       show_interests: false
