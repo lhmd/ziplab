@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD
+role: Research Scientist @ Seeing Machines, Australia
 
 # Organizations/Affiliations
 organizations:
