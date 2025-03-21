@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} ZIP Lab. This work is licensed under {license}'
+    notice: '© {year} ZIP Lab. Designed and Developed by Weijie Wang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
