@@ -14,7 +14,9 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD
+role: College of Computer Science and Technology, Zhejiang University
+
+      B.Eng. '22
 
 # Organizations/Affiliations
 organizations:
