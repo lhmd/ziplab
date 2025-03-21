@@ -16,7 +16,7 @@ sections:
           - PhD Student
           - Master Student
           - Collaborator
-          - Undergraduate Student
+          - Visiting Student
       sort_by: Params.last_name
       sort_ascending: true
     design:
