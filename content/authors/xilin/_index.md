@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'erix025@outlook.com'
+    link: 'mailto:erix025@outlook.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://x.com/wjwang2003
