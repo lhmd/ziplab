@@ -9,7 +9,7 @@ publishDate: '2025-03-02'
 publication_types:
 - manuscript
 publication: '*arXiv*'
-doi: 10.48550/arXiv.2503.02358
+# doi: 10.48550/arXiv.2503.02358
 abstract: "Large Vision Language Models (LVLMs) have demonstrated remarkable abilities\
   \ in understanding and reasoning about both visual and textual information. However,\
   \ existing evaluation methods for LVLMs, primarily based on benchmarks like Visual\
