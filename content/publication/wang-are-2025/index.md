@@ -4,8 +4,8 @@ authors:
 - Xinyu Wang
 - Bohan Zhuang
 - Qi Wu
-date: '2025-03-01'
-publishDate: '2025-03-14T12:48:48.088932Z'
+date: '2025-03-02'
+publishDate: '2025-03-02'
 publication_types:
 - manuscript
 publication: '*arXiv*'
@@ -26,6 +26,8 @@ abstract: "Large Vision Language Models (LVLMs) have demonstrated remarkable abi
   \ of current LVLMs, such as handling long structured outputs and perceiving detailed\
   \ and dense elements. Code and data are publicly available at https://github.com/xinke-wang/LVLM-Playground."
 links:
-- name: URL
+- name: arxiv
   url: http://arxiv.org/abs/2503.02358
+- name: code
+  url: https://github.com/xinke-wang/LVLM-Playground
 ---
