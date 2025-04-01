@@ -10,8 +10,7 @@ date: '2022-01-01'
 publishDate: '2025-03-14T12:48:48.462645Z'
 publication_types:
 - chapter
-publication: '*Computer Vision – ECCV 2022*'
-doi: 10.1007/978-3-031-19830-4_21
+publication: '*ECCV 2022*'
 links:
 - name: URL
   url: https://link.springer.com/10.1007/978-3-031-19830-4_21
