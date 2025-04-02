@@ -24,11 +24,13 @@ banner:
   .author{
     font-size: 18px;
     display: block;
+    white-space: pre;
   }
 
   .conference{
     font-size: 18px;
     display: block;
+    white-space: pre;
   }
 </style>
 
