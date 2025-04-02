@@ -9,6 +9,12 @@ banner:
   caption: ''
   image: ''
 ---
+<style>
+  p{
+    line-height: 1.5;
+    margin-bottom: 1em;
+  }
+</style>
 
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
 Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
