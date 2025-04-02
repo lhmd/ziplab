@@ -17,7 +17,7 @@ banner:
 </style>
 
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
-<font size=5>Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang</font>  
+Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
 arXiv
 
 <br>
