@@ -21,6 +21,11 @@ banner:
     display: block;
   }
 
+  .title::before{
+    content: "•";
+    margin-right: 8px;
+  }
+
   .author{
     font-size: 14px;
     display: block;
@@ -33,5 +38,5 @@ banner:
 </style>
 
 <span class="title">Neighboring Autoregressive Modeling for Efficient Visual Generation</span>
-<span class="author">Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang</span>   
+<span class="author">Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang</span> 
 <span class="conference">arXiv</span>
