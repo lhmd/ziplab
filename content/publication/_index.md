@@ -16,6 +16,8 @@ banner:
   }
 </style>
 
+<font color=gray> color=gray</font>
+
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
 Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
 arXiv
