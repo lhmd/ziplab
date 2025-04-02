@@ -14,17 +14,23 @@ banner:
     line-height: 1.2;
     margin-bottom: 0.8em;
   }
-  .custom-margin {
+
+  .br_ {
     margin-bottom: 20px;
+  }
+
+  .test{
+    font-size: 14px;
+    color: #666;
   }
 </style>
 
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
-<span style="font-size: 14px; color: #666;">Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang</span>   
+<span class="test">Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang</span>   
 arXiv
 
 
-<div class="custom-margin"></div>
+<div class="br_"></div>
 
 
 - **Motion Anything: Any to Motion Generation**  
