@@ -12,7 +12,7 @@ banner:
 <style>
   p{
     line-height: 1.2;
-    margin-bottom: 1.0em;
+    margin-bottom: 0.8em;
   }
 </style>
 
