@@ -18,14 +18,17 @@ banner:
   .title{
     font-size: 20px;
     font-weight: bold;
+    display: block;
   }
 
   .author{
     font-size: 14px;
+    display: block;
   }
 
   .conference{
     font-size: 14px;
+    display: block;
   }
 </style>
 
