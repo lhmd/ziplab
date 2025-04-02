@@ -22,12 +22,12 @@ banner:
   }
 
   .author{
-    font-size: 14px;
+    font-size: 18px;
     display: block;
   }
 
   .conference{
-    font-size: 14px;
+    font-size: 18px;
     display: block;
   }
 </style>
