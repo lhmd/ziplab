@@ -14,6 +14,12 @@ banner:
     line-height: 1.2;
     margin-bottom: 0.8em;
   }
+  br {
+    display: block;
+    margin-bottom: 2px;
+    font-size:2px;
+    line-height: 2px;
+  }
 </style>
 
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
