@@ -10,7 +10,7 @@ banner:
   image: ''
 ---
 <style>
-  p{
+  p {
     line-height: 1.2;
     margin-bottom: 0.8em;
   }
@@ -23,7 +23,9 @@ banner:
 Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
 arXiv
 
-<br class="custom-margin">
+
+<div class="custom-margin"></div>
+
 
 - **Motion Anything: Any to Motion Generation**  
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
