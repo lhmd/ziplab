@@ -11,8 +11,8 @@ banner:
 ---
 <style>
   p{
-    line-height: 0.8;
-    margin-bottom: 1em;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
   }
 </style>
 
