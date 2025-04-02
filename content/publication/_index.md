@@ -3,6 +3,7 @@ title: Publications
 
 # Listing view
 view: compact
+show_search: false
 
 
 # Optional banner image (relative to `assets/media/` folder).
