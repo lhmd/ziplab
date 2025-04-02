@@ -3,6 +3,7 @@ title: Publications
 ---
 <style>
 p {
+    margin-bottom: 5px;
     line-height: 1.5;
 }
 </style>
