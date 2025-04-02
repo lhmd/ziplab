@@ -14,7 +14,7 @@ banner:
     line-height: 1.2;
     margin-bottom: 0.8em;
   }
-  br {
+  br{
     display: block;
     margin-bottom: 2px;
     font-size:2px;
