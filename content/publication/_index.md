@@ -1,14 +1,3 @@
----
-title: Publications
-
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
 <style>
   p {
     line-height: 1.2;
@@ -51,11 +40,3 @@ banner:
 <span class="title">Are Large Vision Language Models Good Game Players?</span>
 <span class="author">Xinyu Wang, Bohan Zhuang, Qi Wu</span> 
 <span class="conference">ICLR 2025</span>
-<span class="new_line"> </span>
-<span class="title">T-stitch: Accelerating sampling in pre-trained diffusion models with trajectory stitching</span>
-<span class="author">Zizheng Pan, Bohan Zhuang, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar</span> 
-<span class="conference">ICLR 2025</span>
-<span class="new_line"> </span>
-<span class="title">Channel Merging: Preserving Specialization for Merged Experts</span>
-<span class="author">Mingyang Zhang, Jing Liu, Ganggui Ding, Xinyi Yu, Linlin Ou, Bohan Zhuang</span> 
-<span class="conference">AAAI 2025(Oral)</span>
