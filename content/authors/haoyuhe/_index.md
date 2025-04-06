@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher, Tiktok
+role: Researcher <br/> Tiktok
 
 # Organizations/Affiliations
 organizations:
