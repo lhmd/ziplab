@@ -13,10 +13,10 @@ sections:
       user_groups:
           - PI
           - CO-PI
-          - PhD Student
-          - Master Student
-          - Collaborator
-          - Visiting Student
+          - PhD Students
+          - Master Students
+          - Collaborators
+          - Visiting Students
       sort_by: Params.last_name
       sort_ascending: true
     design:
