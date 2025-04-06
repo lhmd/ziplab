@@ -24,16 +24,23 @@ banner:
   .author{
     font-size: 18px;
     display: block;
-    white-space: pre;
   }
 
   .conference{
     font-size: 18px;
     display: block;
+  }
+
+  .new_line{
+    font-size: 36px;
     white-space: pre;
   }
 </style>
 
 <span class="title">Neighboring Autoregressive Modeling for Efficient Visual Generation</span>
 <span class="author">Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang</span> 
+<span class="conference">arXiv</span>
+<span class="new_line"> </span>
+<span class="title">Motion Anything: Any to Motion Generation</span>
+<span class="author">Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley</span> 
 <span class="conference">arXiv</span>
