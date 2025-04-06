@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - PhD Students
 ---
 
 Yefei He is a Ph.D. candidate at Zhejiang University, supervised by Prof. Hong Zhou. He is also closely collaborated with Prof. Bohan Zhuang. His research focuses on developing efficient AI algorithms for computer vision and natural language processing tasks, striving to enhance AI’s practicality in real-world scenarios.

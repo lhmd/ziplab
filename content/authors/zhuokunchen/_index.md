@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - PhD Students
 ---
 
 Zhuokun Chen is a master's student in Software Engineering at South China University of Technology, expected to receive his M.Eng. degree in 2025. His current research focuses on efficient chain-of-thought reasoning in large language models.

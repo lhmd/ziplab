@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Student
+  - Visiting Students
 ---
 
 He has recently been focusing on sparse attention and quantization techniques in Diffusion Transformers (DiT) to enable efficient, high-quality generative models.

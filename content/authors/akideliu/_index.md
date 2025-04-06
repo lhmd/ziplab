@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - PhD Students
 ---
 
 Akide Liu a first-year Computer Science PhD Candidate at the Department of Data Science \& AI, Faculty of Information Technology, Monash University. He is supervised by Asst. Prof. \href{https://bohanzhuang.github.io/}{Bohan Zhuang} and Prof. \href{https://research.monash.edu/en/persons/reza-haffari}{Reza Haffari}. He have completed my Bachelor of Computer Science (Honours) degree at the University of Adelaide, under the supervision of Dr. \href{https://yifaninmemory.vmv.re/resources/yifan.github.io.png}{YiFan Liu} and working closely with A/Prof. \href {https://lingqiao-adelaide.github.io/lingqiaoliu.github.io//}{Lingqiao Liu}. 

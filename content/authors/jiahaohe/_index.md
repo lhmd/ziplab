@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Student
+  - Master Students
 ---
 
 Jiahao He is a master student at College of Computer Science and Technology, Zhejiang University, majoring in computer science. He received bachelor degree from College of Computer Science and Technology, Zhejiang University in 2024.

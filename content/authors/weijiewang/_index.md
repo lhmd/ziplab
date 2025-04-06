@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - PhD Students
 ---
 
 Weijie Wang is a senior student at College of Computer Science and Technology, Zhejiang University, majoring in Software Engineering, minor in Advanced Honor Class of Engineering Education(ACEE) at Chu Kochen Honors College, and will graduate from Zhejiang University with a B.S. in Engineering in 2025. 
