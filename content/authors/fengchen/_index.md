@@ -16,8 +16,6 @@ superuser: false
 # Role/position
 role: The University of Adelaide
 
-      PhD. '23
-
 # Organizations/Affiliations
 organizations:
   - name: The University of Adelaide

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher, Seeing Machines
+role: Researcher <br/> Seeing Machines
 
 # Organizations/Affiliations
 organizations:

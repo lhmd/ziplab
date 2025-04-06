@@ -14,9 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: College of Computer Science and Technology, Zhejiang University
-
-      Master. '24
+role: Zhejiang University
 
 # Organizations/Affiliations
 organizations:

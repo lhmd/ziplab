@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher, Seed-Vision-Research, ByteDance
+role: Researcher <br/> Seed & ByteDance
 
 # Organizations/Affiliations
 organizations:

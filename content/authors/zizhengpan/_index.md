@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher, DeepSeek
+role: Researcher <br/> DeepSeek
 
 # Organizations/Affiliations
 organizations:

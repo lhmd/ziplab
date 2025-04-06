@@ -15,8 +15,6 @@ superuser: false
 # Role/position
 role: Zhejiang University
 
-      PhD. '21
-
 # Organizations/Affiliations
 organizations:
   - name: Zhejiang University

@@ -14,9 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Faculty of Information Technology, Monash University
-
-      PhD. '25
+role: Monash University
 
 # Organizations/Affiliations
 organizations:

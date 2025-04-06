@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher, Seed, Bytedance
+role: Researcher <br/> Seed, Bytedance
 
 # Organizations/Affiliations
 organizations:

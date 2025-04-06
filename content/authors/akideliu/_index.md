@@ -16,8 +16,6 @@ superuser: false
 # Role/position
 role: Monash University
 
-      PhD. '24
-
 # Organizations/Affiliations
 organizations:
   - name: Department of Data Science & AI, Faculty of Information Technology, Monash University

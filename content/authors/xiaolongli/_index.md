@@ -16,8 +16,6 @@ superuser: false
 # Role/position
 role: Harbin Institute of Technology
 
-      Undergrad ‘22
-
 # Organizations/Affiliations
 organizations:
   - name: Harbin Institute of Technology
