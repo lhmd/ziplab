@@ -19,21 +19,24 @@ banner:
     font-size: 20px;
     font-weight: bold;
     display: block;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .author{
     font-size: 15px;
     display: block;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .conference{
     font-size: 15px;
     display: block;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .new_line {
     display: inline-block;
-    width: 36px;
+    width: 10px;
   }
 </style>
 
