@@ -31,9 +31,9 @@ banner:
     display: block;
   }
 
-  .new_line{
-    font-size: 36px;
-    white-space: pre;
+  .new_line {
+    display: inline-block;
+    width: 36px; /* 直接设置间距宽度 */
   }
 </style>
 
