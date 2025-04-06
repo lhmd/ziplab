@@ -57,7 +57,3 @@ email: ''
 user_groups:
   - Master Students
 ---
-
-Jiahao He is a master student at College of Computer Science and Technology, Zhejiang University, majoring in computer science. He received bachelor degree from College of Computer Science and Technology, Zhejiang University in 2024.
-
-He has recently been focusing on research related to efficient LLM.
