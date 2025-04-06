@@ -22,18 +22,18 @@ banner:
   }
 
   .author{
-    font-size: 18px;
+    font-size: 15px;
     display: block;
   }
 
   .conference{
-    font-size: 18px;
+    font-size: 15px;
     display: block;
   }
 
   .new_line {
     display: inline-block;
-    width: 36px; /* 直接设置间距宽度 */
+    width: 36px;
   }
 </style>
 
