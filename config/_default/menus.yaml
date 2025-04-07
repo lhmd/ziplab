@@ -15,10 +15,13 @@ main:
     weight: 30
   # - name: Events
   #   url: event
-    weight: 40
-  - name: Publications
+  #  weight: 40
+  - name: Publication
     url: publication
     weight: 50
+  # - name: Publication
+  #   url: test
+  #   weight: 50
   # - name: Contact
   #   url: contact
   #   weight: 60
